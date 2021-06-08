@@ -8,7 +8,7 @@
 - ⚙️ Uso a diario: `.php`, `.js`, `.html`, `.css`, `.laravel`, `.vue`, `mysql`
 - 🌍 I'm mostly active within the **Laravel Community**
 - 💅 Te invito a ver mi perfil: [emejias.com](http://www.emejias.com)
-- 🌱 Learning all about **Open Source**
+- 🌱 Aprendiendo todo sobre **Open Source**
 - 💬 Hazme ping sobre **design**, **branding**, **laravel**, **development**, **design thinking**
 - 📫 Reach me: [twitter.com/EnrriqueMejiasC](https://twitter.com/EnrriqueMejiasC)
 - ⚡️ Fun fact: Me gusta practicar surf pero vivo muy lejos de las olas.
