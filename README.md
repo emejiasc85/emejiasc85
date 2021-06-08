@@ -6,7 +6,7 @@
 
 - 🏢 Actualmente trabajo part time en Macasoft y Rocket launching Ideas desde **Guatemala**
 - ⚙️ Uso a diario: `.php`, `.js`, `.html`, `.css`, `.laravel`, `.vue`, `mysql`
-- 🌍 Soy mayormente activa dentro de la **Comunidad Laravel **
+- 🌍 Soy mayormente activo dentro de la **Comunidad Laravel **
 - 💅 Te invito a ver mi perfil: [emejias.com](http://www.emejias.com)
 - 🌱 Aprendiendo todo sobre **Open Source**
 - 💬 Hazme ping sobre **design**, **branding**, **laravel**, **development**, **design thinking**
