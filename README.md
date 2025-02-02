@@ -1,4 +1,4 @@
-### ¡Hola 🙋🏻‍♂️! Soy Enrique Mejias. Llevo 6+ años trabajando en desarrollo web
+### ¡Hola 🙋🏻‍♂️! Soy Enrique Mejias. Llevo 8+ años trabajando en desarrollo web
 
 #### De profesión Ingeniero en Sistemas, pero desarrollador web autodidacta por convicción.
 
